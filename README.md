@@ -22,9 +22,11 @@ $219.68 per month estimated   //  WordPress Certified by Bitnami deployment
 ### Bitnami customer support? 
 Submit a request.Documentation. 
 ### How to setup database? 
-Https requests  0.95 /million     90+ requests in each page
-~ 100  
+ 
 ### How to migrate our website?  
 1. Set up wordpress https://www.youtube.com/watch?v=uMs01-uNjak&t=623s   
 2. https://firstsiteguide.com/change-hosting/  sftp (…)
+
+### How much is the DDos? 
+Https requests  0.95 /million  Use Gt-metrix to check.   90+ requests in each page
 
